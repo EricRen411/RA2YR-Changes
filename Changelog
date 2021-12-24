@@ -1,0 +1,16 @@
+Tank Destroyer: 
+  Speed changed from 5 to 6
+  Cost reduced to 850 from 900
+  Range increased to 6 from 5
+  
+GI:
+  Cost reduced to 175
+  Changed warhead to GI-specific warhead. Damage vs. armor and buildings decreased.
+  
+Conscript:
+  Cost reduced to 80
+
+Seal:
+  Cost reduced to 800
+  Damage reduced to 60 from 125 (takes 3 hits to kill a GI)
+  Warhead now does 10% damage to non-infantry
